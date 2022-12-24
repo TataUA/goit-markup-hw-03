@@ -1,2 +1,2 @@
 # goit-markup-hw-03
-Flexbox
+https://tataua.github.io/goit-markup-hw-03/
