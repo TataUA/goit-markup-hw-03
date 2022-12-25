@@ -258,7 +258,7 @@ img {
     color: rgba (77, 90, 229, 10%);
 }
 
-.our-team {
+.section.team {
     background-color: var(--gallery-white-color);
 }
 
@@ -296,11 +296,10 @@ img {
 }
 
 .gallery-text {
-    margin: 32px 0;
+    padding: 32px 16px;
 }
 
 .gallery-link.title {
-    padding-left: 16px;
     margin-bottom: 8px;
 
     color: var(--title-text-color);
@@ -311,8 +310,6 @@ img {
 }
 
 .gallery-direction {
-    padding-left: 16px;
-
     color: var(--primary-text-color)
 }
 
@@ -321,12 +318,10 @@ img {
 }
 
 /*footer*/
-.footer > .container {
+.footer {
     padding-top: 100px;
     padding-bottom: 100px;
-}
 
-footer {
     background-color: var(--title-text-color);
     color: var(--button-border-color);
 }
